@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoj%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Operations%20Research&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoj%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Operations%20Research&descAlignY=55&descAlign=50" width="100%"/> -->
 
-</div>
+<!-- </div> -->
 
 <div align="center">
 
@@ -61,39 +61,7 @@ class ManojKumar:
 </td>
 <td width="50%">
 
-### 🏠 AI-Powered Collateral Valuation Engine
-> Automated Valuation Model (AVM) for Indian real estate lending with agentic AI onboarding, V-KYC compliance, and multi-source data ingestion (IGR, RERA, CERSAI, NHB-RESIDEX).
 
-**Stack:** `Python` `Claude API` `Web Scraping` `AVM`  
-**Highlights:** Legal risk scoring · Market liquidity features · Regulatory compliance
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 CGFS Feature Selection Framework
-> Implementation of Shapley-value-based cooperative game feature selection (Sun et al., 2012) using conditional mutual information for high-dimensional ML datasets.
-
-**Stack:** `Python` `Game Theory` `Information Theory` `Scikit-learn`  
-**Highlights:** Cooperative Shapley attribution · CMI computation · Benchmark comparisons
-
-</td>
-<td width="50%">
-
-### 🚂 Eastern Railway Freight Analytics
-> Consulting project analysing structural decline in ER freight performance — coal dependency risk, modal shift, DFC underutilisation, and division-level KPIs.
-
-**Stack:** `Python` `Pandas` `Statistical Analysis` `Data Visualisation`  
-**Highlights:** Division-level stats · Policy recommendations · Market share modelling
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
 
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -111,8 +79,7 @@ class ManojKumar:
 
 ### 🔬 OR & Optimisation
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![CVXPY](https://img.shields.io/badge/CVXPY-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![PuLP](https://img.shields.io/badge/PuLP-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🧰 Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -140,15 +107,7 @@ class ManojKumar:
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=manoj-kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -164,10 +123,9 @@ class ManojKumar:
 
 | 🏛️ Institution | 🎯 Role / Degree | 📅 Period |
 |---|---|---|
-| **IIT Kharagpur** | M.Tech — Operations Research & Data Analytics | 2023 – Present |
-| **Vivo Mobile India** | Intern — New Product Introduction (NPI) | 2023 |
-| **Uflex Ltd.** | Intern — Flexible Packaging Operations | 2022 |
-| **Eastern Railway (IIT KGP Consulting)** | Freight Market Analyst | 2024 – Present |
+| **IIT Kharagpur** | M.Tech — Operations Research & Data Analytics | 2025 – Present |
+| **Vivo Mobile India** | Intern — New Product Introduction (NPI) | 2025 |
+| **Uflex Ltd.** | Intern — Flexible Packaging Operations | 2024 |
 
 ---
 
