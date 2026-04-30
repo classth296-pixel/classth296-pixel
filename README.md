@@ -92,7 +92,7 @@ class ManojKumar:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoj-kumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -101,9 +101,9 @@ class ManojKumar:
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=manoj-kumar&theme=tokyonight&hide_border=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=manoj-kumar&theme=tokyonight&hide_border=true) -->
 
-</div>
+<!-- </div> -->
 
 ---
 
@@ -111,11 +111,11 @@ class ManojKumar:
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<!-- <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manoj-kumar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manoj-kumar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-</div>
+<!-- </div> -->
 
 ---
 
