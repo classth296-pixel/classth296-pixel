@@ -4,13 +4,13 @@
 
 <!-- </div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=M.Tech+%40+IIT+Kharagpur+%7C+OR+%26+Data+Analytics;Machine+Learning+%2B+Optimisation+%3D+%E2%9D%A4%EF%B8%8F;Turning+Industrial+Problems+into+Data+Solutions)](https://git.io/typing-svg)
 
 </div>
 
----
+--- -->
 
 ## 👨‍💻 About Me
 
@@ -21,7 +21,7 @@ class ManojKumar:
         self.role        = "Data Scientist & ML Engineer"
         self.education   = "M.Tech @ IIT Kharagpur (OR & Data Analytics)"
         self.pronouns    = "He / Him"
-        self.location    = "Kharagpur, West Bengal, India 🇮🇳"
+        self.location    = "Kharagpur, West Bengal, India "
 
     @property
     def current_focus(self):
